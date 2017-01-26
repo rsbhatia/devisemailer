@@ -1,4 +1,4 @@
 git add -A
-git commit -m "setup prod evo for heroku"
+git commit -m "setup prod evo for heroku and updated email send address"
 git push origin master
 git push heroku master
